@@ -6,7 +6,25 @@ The purpose  of this project was to refactor code to perform an analysis on the 
 
 ## Results
 
+### 2017_Non_Refactor
+![2017_Non_Refactor](https://github.com/bikachuuuuuu/stock-analysis/blob/main/Resources/2017_Non_Refactor.PNG)
 
+### 2017_Refactor
+![2017_Refactor](https://github.com/bikachuuuuuu/stock-analysis/blob/main/Resources/2017_Refactor.PNG?raw=true)
+
+As can be seen evidently through the photos above, the initial code took approximately 91 miliseconds in order to run the code that was produced through the course of Module 2. With various degrees of modifications to the code, allowing the script to run through the data given at a much quicker pace, we see a decrease in the amount of time it takes to run the specific code. This is seen as a net gain, both for the developer and for the client as well. Therefore, the refactored code would be more useful to use in this circumstance to quicker provide the requested service to the client.
+
+This can also be deduced, by looking at the 2018 results as well.
+
+###### 2018_Non_Refactor
+
+![2018_Non_Refactor](https://github.com/bikachuuuuuu/stock-analysis/blob/main/Resources/2018_Non_Refactor.PNG?raw=true)
+
+###### 2018_Refactor
+
+![2018_Refactor](https://github.com/bikachuuuuuu/stock-analysis/blob/main/Resources/2018_Refactor.PNG?raw=true)
+
+In this example as well, much like the 2017 results, it can be determined that the refactored code has improved over all functionality of the script and is running at an ideal speed of what one would desire when running data anaylze macros.
 
 ## Summary
 
